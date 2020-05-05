@@ -1,0 +1,18 @@
+body {
+	background-color: red;
+}
+
+h1 {
+	position: relative;
+	left: 760px;
+}
+
+#letters {
+	position: relative;
+	left: 750px;
+}
+
+#display {
+	position: relative;
+	left: 755px;
+}
